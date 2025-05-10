@@ -24,8 +24,8 @@
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/sametuzunin)
-- Email: [your.email@example.com](mailto:sametuzun4545@gmail.com)
+- LinkedIn: [www.linkedin.com/in/sametuzunin](www.linkedin.com/in/sametuzunin)
+- Email: [sametuzun4545@gmail.com](mailto:sametuzun4545@gmail.com)
 
 ---
 
