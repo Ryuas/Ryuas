@@ -12,7 +12,7 @@
 
 ## 🛠️ Technologies I'm Exploring
 
-- Languages: `C++`, `C#`, `JavaScript`, `Python`
+- Languages: `C++`, `JavaScript`, `Python`
 - Game Dev: `Unity`, `Godot`, `2D Pixel Art`
 - Tools: `VS Code`, `Git`, `GitHub`, `
 
